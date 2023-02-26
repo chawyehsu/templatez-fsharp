@@ -1,8 +1,8 @@
-# fsharp-fake-paket-template
+# templatez-fsharp
 A [FSharp](https://fsharp.org/) project template contains [Paket](https://fsprojects.github.io/Paket/) and [FAKE](https://fake.build/).
 
 ## License
 
-[The Unlicense](LICENSE)
+**templatez-fsharp** © [Chawye Hsu](https://github.com/chawyehsu). Released under the [Unlicense](LICENSE) License.
 
-> [Website](https://www.h404bi.com) · GitHub [@h404bi](https://github.com/h404bi) · Twitter [@h404bi](https://twitter.com/chawyehsu)
+> [Blog](https://chawyehsu.com) · GitHub [@chawyehsu](https://github.com/chawyehsu) · Twitter [@chawyehsu](https://twitter.com/chawyehsu)
